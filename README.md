@@ -39,5 +39,3 @@ go build -o quickdrop main.go
 
 * 建议通过反向代理（如 Caddy）进行 TLS 加密
 * 服务器自动清理过期文件，释放存储空间
-
-```
