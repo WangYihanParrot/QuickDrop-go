@@ -1,5 +1,5 @@
 $name = "QuickDrop-go"
-$version = "1.0"
+$version = "1.1"
 
 # Windows
 go build -o "./build/${name}_v${version}_windows_amd64.exe" main.go

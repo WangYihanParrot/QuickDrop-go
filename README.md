@@ -16,7 +16,7 @@ QuickDrop 是一个基于 Go 的轻量级临时文件与文本传输服务，支
 ## 编译
 
 ```bash
-go build -o quickdrop main.go
+./build.ps1
 ````
 
 ## 运行
